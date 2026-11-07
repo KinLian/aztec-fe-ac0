@@ -1,0 +1,116 @@
+{
+  "name": "Haramain Marble & Gold",
+  "reference": "",
+  "description": "Creamy matte white marble, glowing gold accents, soft shadows and deep royal blue skies for daytime courtyards.",
+  "timeOfDay": [
+    "Morning",
+    "Midday",
+    "Afternoon"
+  ],
+  "locations": [
+    "Mecca",
+    "Medina",
+    "Haramain courtyards",
+    "Architecture"
+  ],
+  "tags": [
+    "high contrast",
+    "gold",
+    "marble",
+    "Mecca, Medina & Desert — high contrast"
+  ],
+  "images": [],
+  "settings": {
+    "profile": "Adobe Color",
+    "treatment": "color",
+    "light": {
+      "exposure": "-0.20 to -0.40",
+      "contrast": 12,
+      "highlights": -75,
+      "shadows": 30,
+      "whites": -15,
+      "blacks": -10
+    },
+    "toneCurve": {
+      "rgb": [
+        [
+          0,
+          0
+        ],
+        [
+          64,
+          58
+        ],
+        [
+          192,
+          198
+        ],
+        [
+          255,
+          245
+        ]
+      ],
+      "notes": "Gentle S-curve; pull the white point down to 245 for soft highlights."
+    },
+    "color": {
+      "temp": 6,
+      "tint": 2,
+      "vibrance": 15,
+      "saturation": -8
+    },
+    "hsl": [
+      {
+        "channel": "Orange",
+        "hue": -4,
+        "saturation": 8,
+        "luminance": 5,
+        "note": "Natural warm skin tones"
+      },
+      {
+        "channel": "Yellow",
+        "hue": -8,
+        "saturation": 15,
+        "luminance": 10,
+        "note": "Enhances gold Kiswah and brass pillars"
+      },
+      {
+        "channel": "Aqua",
+        "hue": -5,
+        "saturation": -20,
+        "luminance": -10,
+        "note": "Cleans up sky reflections"
+      },
+      {
+        "channel": "Blue",
+        "hue": -5,
+        "saturation": -25,
+        "luminance": -15,
+        "note": "Deepens harsh cyan skies"
+      }
+    ],
+    "colorGrading": {
+      "shadows": {
+        "hue": 215,
+        "sat": 8
+      },
+      "highlights": {
+        "hue": 42,
+        "sat": 12
+      },
+      "blending": 60,
+      "balance": 15
+    },
+    "effects": {
+      "texture": 10,
+      "clarity": 5,
+      "dehaze": 5
+    },
+    "detail": {
+      "sharpening": 40,
+      "masking": 70
+    },
+    "notes": "Shoot DNG/RAW and dial in-camera exposure compensation to -0.3 to -0.7 EV during the day to protect marble and Ihram highlights."
+  },
+  "createdAt": "2026-10-01T08:00:00.000Z",
+  "updatedAt": "2026-10-30T11:10:43.949Z"
+}

@@ -1,0 +1,81 @@
+{
+  "name": "Sacred Nocturne",
+  "reference": "",
+  "description": "Balanced artificial lighting, regal emerald domes and minarets, and clean midnight skies.",
+  "timeOfDay": [
+    "Blue hour",
+    "Night"
+  ],
+  "locations": [
+    "Mecca",
+    "Medina",
+    "Night architecture"
+  ],
+  "tags": [
+    "high contrast",
+    "night",
+    "Mecca, Medina & Desert — high contrast"
+  ],
+  "images": [],
+  "settings": {
+    "profile": "Adobe Color",
+    "treatment": "color",
+    "light": {
+      "exposure": -0.15,
+      "contrast": 15,
+      "highlights": -85,
+      "shadows": 25,
+      "whites": -20,
+      "blacks": -25
+    },
+    "toneCurve": {},
+    "color": {
+      "temp": -8,
+      "tint": 0,
+      "vibrance": 10,
+      "saturation": -10
+    },
+    "hsl": [
+      {
+        "channel": "Orange",
+        "hue": 0,
+        "saturation": 10,
+        "luminance": 8,
+        "note": "Warm interior arch glow"
+      },
+      {
+        "channel": "Yellow",
+        "hue": -5,
+        "saturation": -10,
+        "luminance": 0,
+        "note": "Balances bright floodlights"
+      },
+      {
+        "channel": "Green",
+        "hue": 15,
+        "saturation": -25,
+        "luminance": -10,
+        "note": "Tames neon green lights into emerald"
+      },
+      {
+        "channel": "Blue",
+        "hue": 5,
+        "saturation": -15,
+        "luminance": -20,
+        "note": "Midnight navy sky"
+      }
+    ],
+    "colorGrading": {},
+    "effects": {
+      "clarity": 8,
+      "dehaze": 10
+    },
+    "detail": {
+      "luminanceNR": 30,
+      "colorNR": 25
+    },
+    "notes": ""
+  },
+  "createdAt": "2026-10-03T08:00:00.000Z",
+  "updatedAt": "2026-10-30T11:10:43.956Z"
+}

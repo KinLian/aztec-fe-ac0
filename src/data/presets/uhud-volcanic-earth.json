@@ -1,0 +1,99 @@
+{
+  "name": "Uhud Volcanic Earth",
+  "reference": "Kodak Portra (inspired)",
+  "description": "Warm, cinematic look with rich terracotta and red volcanic rock and atmospheric depth.",
+  "timeOfDay": [
+    "Morning",
+    "Afternoon",
+    "Golden hour (PM)"
+  ],
+  "locations": [
+    "Mount Uhud",
+    "Desert",
+    "Medina"
+  ],
+  "tags": [
+    "high contrast",
+    "warm",
+    "cinematic",
+    "Mecca, Medina & Desert — high contrast"
+  ],
+  "images": [],
+  "settings": {
+    "profile": "Adobe Color",
+    "treatment": "color",
+    "light": {
+      "exposure": 0,
+      "contrast": 22,
+      "highlights": -45,
+      "shadows": 15,
+      "whites": 5,
+      "blacks": -18
+    },
+    "toneCurve": {},
+    "color": {
+      "temp": 12,
+      "tint": 5,
+      "vibrance": 20,
+      "saturation": -5
+    },
+    "hsl": [
+      {
+        "channel": "Red",
+        "hue": 5,
+        "saturation": 12,
+        "luminance": -10,
+        "note": "Deepens Mount Uhud red volcanic rock"
+      },
+      {
+        "channel": "Orange",
+        "hue": -6,
+        "saturation": 15,
+        "luminance": -8,
+        "note": "Rich terracotta sand and stone"
+      },
+      {
+        "channel": "Yellow",
+        "hue": -12,
+        "saturation": -10,
+        "luminance": -5,
+        "note": "Shifts dry sand toward warm amber"
+      },
+      {
+        "channel": "Blue",
+        "hue": -10,
+        "saturation": -30,
+        "luminance": -20,
+        "note": "Mutes sky to emphasize warm earth"
+      }
+    ],
+    "colorGrading": {
+      "shadows": {
+        "hue": 30,
+        "sat": 10
+      },
+      "midtones": {
+        "hue": 38,
+        "sat": 15
+      },
+      "highlights": {
+        "hue": 48,
+        "sat": 10
+      }
+    },
+    "effects": {
+      "texture": 15,
+      "clarity": 15,
+      "dehaze": 20,
+      "grain": {
+        "amount": 15,
+        "size": 25,
+        "roughness": 50
+      }
+    },
+    "detail": {},
+    "notes": "Dehaze +20 cuts through desert dust."
+  },
+  "createdAt": "2026-10-02T08:00:00.000Z",
+  "updatedAt": "2026-10-30T11:10:43.950Z"
+}

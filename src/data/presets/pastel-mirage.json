@@ -1,0 +1,107 @@
+{
+  "name": "Pastel Mirage",
+  "reference": "Fuji Pro 400H / Kodak Portra 160 (inspired)",
+  "description": "Overexposed desert film look with dusty peach sand and rose-terracotta rocks, embracing natural desert haze.",
+  "timeOfDay": [
+    "Morning",
+    "Afternoon",
+    "Golden hour (PM)"
+  ],
+  "locations": [
+    "Desert",
+    "Mount Uhud"
+  ],
+  "tags": [
+    "low contrast",
+    "pastel",
+    "desert",
+    "Mecca, Medina & Desert — low contrast & pastel"
+  ],
+  "images": [],
+  "settings": {
+    "profile": "Adobe Color",
+    "treatment": "color",
+    "light": {
+      "exposure": 0.2,
+      "contrast": -30,
+      "highlights": -50,
+      "shadows": 60,
+      "whites": -15,
+      "blacks": 30
+    },
+    "toneCurve": {
+      "rgb": [
+        [
+          0,
+          30
+        ],
+        [
+          255,
+          255
+        ]
+      ],
+      "notes": "Lift the black point; keep midtones flat."
+    },
+    "color": {
+      "temp": 8,
+      "tint": 6,
+      "vibrance": 15,
+      "saturation": -20
+    },
+    "hsl": [
+      {
+        "channel": "Red",
+        "hue": 8,
+        "saturation": -15,
+        "luminance": 15,
+        "note": "Softens dark volcanic rock into dusty rose/terracotta"
+      },
+      {
+        "channel": "Orange",
+        "hue": -5,
+        "saturation": -15,
+        "luminance": 15,
+        "note": "Creamy peach-toned sand and stone"
+      },
+      {
+        "channel": "Yellow",
+        "hue": -10,
+        "saturation": -20,
+        "luminance": 10,
+        "note": "Warm cream highlights"
+      },
+      {
+        "channel": "Blue",
+        "hue": -12,
+        "saturation": -40,
+        "luminance": 25,
+        "note": "Pale, vintage washed-out sky"
+      }
+    ],
+    "colorGrading": {
+      "shadows": {
+        "hue": 25,
+        "sat": 10
+      },
+      "highlights": {
+        "hue": 50,
+        "sat": 15
+      },
+      "blending": 75
+    },
+    "effects": {
+      "texture": 0,
+      "clarity": -12,
+      "dehaze": -5,
+      "grain": {
+        "amount": 18,
+        "size": 30,
+        "roughness": 40
+      }
+    },
+    "detail": {},
+    "notes": ""
+  },
+  "createdAt": "2026-10-05T08:00:00.000Z",
+  "updatedAt": "2026-10-30T11:10:43.958Z"
+}

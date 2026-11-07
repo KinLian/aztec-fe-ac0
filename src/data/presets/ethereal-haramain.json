@@ -1,0 +1,86 @@
+{
+  "name": "Ethereal Haramain",
+  "reference": "Fuji Pro 400H / Kodak Portra 160 (inspired)",
+  "description": "Soft and airy daytime look: creamy ivory marble, open shadows, champagne gold accents and powdery pastel skies.",
+  "timeOfDay": [
+    "Morning",
+    "Midday",
+    "Afternoon"
+  ],
+  "locations": [
+    "Mecca",
+    "Medina",
+    "Haramain courtyards"
+  ],
+  "tags": [
+    "low contrast",
+    "pastel",
+    "airy",
+    "Mecca, Medina & Desert — low contrast & pastel"
+  ],
+  "images": [],
+  "settings": {
+    "profile": "Adobe Color",
+    "treatment": "color",
+    "light": {
+      "exposure": "+0.15 to +0.30",
+      "contrast": -30,
+      "highlights": -65,
+      "shadows": 60,
+      "whites": -20,
+      "blacks": 30
+    },
+    "toneCurve": {
+      "rgb": [
+        [
+          0,
+          25
+        ],
+        [
+          255,
+          235
+        ]
+      ],
+      "notes": "Faded shadows, matte highlights."
+    },
+    "color": {
+      "temp": 4,
+      "tint": 3,
+      "vibrance": 10,
+      "saturation": -15
+    },
+    "hsl": [
+      {
+        "channel": "Orange",
+        "hue": -2,
+        "saturation": -10,
+        "luminance": 10,
+        "note": "Airy, bright skin tones and stone"
+      },
+      {
+        "channel": "Yellow",
+        "hue": -5,
+        "saturation": -10,
+        "luminance": 15,
+        "note": "Soft champagne gold accents"
+      },
+      {
+        "channel": "Blue",
+        "hue": -10,
+        "saturation": -35,
+        "luminance": 20,
+        "note": "Powdery pastel sky — high luminance is key"
+      }
+    ],
+    "colorGrading": {},
+    "effects": {
+      "texture": -5,
+      "clarity": -10,
+      "dehaze": -5
+    },
+    "detail": {},
+    "notes": "Negative clarity creates a soft, dreamy bloom on marble."
+  },
+  "createdAt": "2026-10-04T08:00:00.000Z",
+  "updatedAt": "2026-10-30T11:10:43.957Z"
+}

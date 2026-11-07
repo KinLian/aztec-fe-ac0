@@ -1,0 +1,85 @@
+{
+  "name": "Velvet Medina",
+  "reference": "Pro-Mist filter look",
+  "description": "Matte, hazy twilight: velvety smoky-grey skies, softly blooming floodlights and muted sage-green domes.",
+  "timeOfDay": [
+    "Blue hour",
+    "Night"
+  ],
+  "locations": [
+    "Medina",
+    "Night architecture"
+  ],
+  "tags": [
+    "low contrast",
+    "matte",
+    "night",
+    "Mecca, Medina & Desert — low contrast & pastel"
+  ],
+  "images": [],
+  "settings": {
+    "profile": "Adobe Color",
+    "treatment": "color",
+    "light": {
+      "exposure": 0,
+      "contrast": -20,
+      "highlights": -85,
+      "shadows": 50,
+      "whites": -25,
+      "blacks": 20
+    },
+    "toneCurve": {
+      "rgb": [
+        [
+          0,
+          22
+        ],
+        [
+          255,
+          255
+        ]
+      ],
+      "notes": "Smoky matte night sky."
+    },
+    "color": {
+      "temp": -5,
+      "tint": 0,
+      "vibrance": 5,
+      "saturation": -20
+    },
+    "hsl": [
+      {
+        "channel": "Orange",
+        "hue": 5,
+        "saturation": -10,
+        "luminance": 10,
+        "note": "Soft amber interior glow"
+      },
+      {
+        "channel": "Green",
+        "hue": 20,
+        "saturation": -35,
+        "luminance": 5,
+        "note": "Turns neon green lights into pastel sage/mint"
+      },
+      {
+        "channel": "Blue",
+        "hue": -5,
+        "saturation": -25,
+        "luminance": 10,
+        "note": "Dusty slate-blue twilight sky"
+      }
+    ],
+    "colorGrading": {},
+    "effects": {
+      "clarity": -15,
+      "dehaze": -10
+    },
+    "detail": {
+      "luminanceNR": 35
+    },
+    "notes": "Dehaze -10 blooms bright lights softly."
+  },
+  "createdAt": "2026-10-06T08:00:00.000Z",
+  "updatedAt": "2026-10-30T11:10:43.961Z"
+}

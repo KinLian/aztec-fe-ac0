@@ -1,0 +1,97 @@
+{
+  "name": "Fujifilm Classic Negative — Desert Neg",
+  "reference": "Fujifilm Classic Negative",
+  "description": "Vintage documentary feel for Mount Uhud, historical sites and dusty streets, with olive-teal shadows and ochre highlights.",
+  "timeOfDay": [
+    "Morning",
+    "Afternoon",
+    "Golden hour (PM)"
+  ],
+  "locations": [
+    "Mount Uhud",
+    "Historical sites",
+    "Street"
+  ],
+  "tags": [
+    "low contrast",
+    "film simulation",
+    "documentary",
+    "Fujifilm Astia, Eterna, Classic Neg & Acros"
+  ],
+  "images": [],
+  "settings": {
+    "profile": "Adobe Color",
+    "treatment": "color",
+    "light": {
+      "exposure": 0.15,
+      "contrast": -15,
+      "highlights": -55,
+      "shadows": 45,
+      "whites": -20,
+      "blacks": 25
+    },
+    "toneCurve": {
+      "rgb": [
+        [
+          0,
+          22
+        ],
+        [
+          255,
+          235
+        ]
+      ]
+    },
+    "color": {
+      "temp": 10,
+      "tint": 5,
+      "vibrance": 10,
+      "saturation": -18
+    },
+    "hsl": [
+      {
+        "channel": "Red",
+        "hue": 12,
+        "saturation": 15,
+        "luminance": -10,
+        "note": ""
+      },
+      {
+        "channel": "Orange",
+        "hue": -6,
+        "saturation": 10,
+        "luminance": -5,
+        "note": ""
+      },
+      {
+        "channel": "Blue",
+        "hue": -15,
+        "saturation": -30,
+        "luminance": -10,
+        "note": ""
+      }
+    ],
+    "colorGrading": {
+      "shadows": {
+        "hue": 175,
+        "sat": 10
+      },
+      "highlights": {
+        "hue": 40,
+        "sat": 18
+      }
+    },
+    "effects": {
+      "clarity": -10,
+      "grain": {
+        "amount": 20,
+        "size": 30,
+        "roughness": 50
+      }
+    },
+    "detail": {},
+    "notes": ""
+  },
+  "createdAt": "2026-10-11T08:00:00.000Z",
+  "updatedAt": "2026-10-30T11:10:43.969Z"
+}

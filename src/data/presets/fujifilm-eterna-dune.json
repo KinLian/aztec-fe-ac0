@@ -1,0 +1,95 @@
+{
+  "name": "Fujifilm Eterna — Dune",
+  "reference": "Fujifilm Eterna / Cinema",
+  "description": "Cinematic, very flat grade for high-dynamic-range archways, harsh desert sun and wide frames.",
+  "timeOfDay": [
+    "Midday",
+    "Afternoon"
+  ],
+  "locations": [
+    "Desert",
+    "Archways",
+    "Architecture"
+  ],
+  "tags": [
+    "low contrast",
+    "film simulation",
+    "cinematic",
+    "Fujifilm Astia, Eterna, Classic Neg & Acros"
+  ],
+  "images": [],
+  "settings": {
+    "profile": "Adobe Color",
+    "treatment": "color",
+    "light": {
+      "exposure": 0,
+      "contrast": -35,
+      "highlights": -80,
+      "shadows": 65,
+      "whites": -30,
+      "blacks": 35
+    },
+    "toneCurve": {
+      "rgb": [
+        [
+          0,
+          28
+        ],
+        [
+          255,
+          228
+        ]
+      ]
+    },
+    "color": {
+      "temp": 4,
+      "tint": 0,
+      "vibrance": -10,
+      "saturation": -25
+    },
+    "hsl": [
+      {
+        "channel": "Orange",
+        "hue": -2,
+        "saturation": -10,
+        "luminance": 5,
+        "note": ""
+      },
+      {
+        "channel": "Yellow",
+        "hue": -8,
+        "saturation": -20,
+        "luminance": 0,
+        "note": ""
+      },
+      {
+        "channel": "Blue",
+        "hue": -10,
+        "saturation": -30,
+        "luminance": -10,
+        "note": ""
+      }
+    ],
+    "colorGrading": {
+      "shadows": {
+        "hue": 205,
+        "sat": 10
+      },
+      "highlights": {
+        "hue": 45,
+        "sat": 12
+      }
+    },
+    "effects": {
+      "clarity": -8,
+      "dehaze": -5,
+      "grain": {
+        "amount": 15
+      }
+    },
+    "detail": {},
+    "notes": ""
+  },
+  "createdAt": "2026-10-10T08:00:00.000Z",
+  "updatedAt": "2026-10-30T11:10:43.968Z"
+}

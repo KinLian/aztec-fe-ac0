@@ -1,0 +1,70 @@
+{
+  "name": "Fujifilm Acros — Warm Monochrome",
+  "reference": "Fujifilm Acros",
+  "description": "Warm silver monochrome for spiritual minimalism, crowded Tawaf scenes and dramatic light rays.",
+  "timeOfDay": [
+    "Midday",
+    "Any time"
+  ],
+  "locations": [
+    "Mecca",
+    "Tawaf",
+    "Interiors"
+  ],
+  "tags": [
+    "black & white",
+    "film simulation",
+    "Fujifilm Astia, Eterna, Classic Neg & Acros"
+  ],
+  "images": [],
+  "settings": {
+    "profile": "Adobe Monochrome",
+    "treatment": "bw",
+    "light": {
+      "contrast": -15,
+      "highlights": -60,
+      "shadows": 40,
+      "whites": -10,
+      "blacks": 15
+    },
+    "toneCurve": {
+      "rgb": [
+        [
+          0,
+          16
+        ],
+        [
+          255,
+          242
+        ]
+      ]
+    },
+    "color": {},
+    "hsl": [],
+    "bwMix": {
+      "red": 15,
+      "orange": 25,
+      "yellow": 20,
+      "aqua": -20,
+      "blue": -40
+    },
+    "colorGrading": {
+      "global": {
+        "hue": 42,
+        "sat": 6
+      }
+    },
+    "effects": {
+      "clarity": 5,
+      "grain": {
+        "amount": 25,
+        "size": 25,
+        "roughness": 60
+      }
+    },
+    "detail": {},
+    "notes": "Warm silver/selenium tone via global colour grading."
+  },
+  "createdAt": "2026-10-12T08:00:00.000Z",
+  "updatedAt": "2026-10-30T11:10:43.970Z"
+}

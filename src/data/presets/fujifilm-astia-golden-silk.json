@@ -1,0 +1,85 @@
+{
+  "name": "Fujifilm Astia — Golden Silk",
+  "reference": "Fujifilm Astia / Soft",
+  "description": "Soft, silky warmth for Medina umbrellas, golden architectural details and late afternoon light.",
+  "timeOfDay": [
+    "Afternoon",
+    "Golden hour (PM)"
+  ],
+  "locations": [
+    "Medina",
+    "Architecture"
+  ],
+  "tags": [
+    "low contrast",
+    "film simulation",
+    "golden",
+    "Fujifilm Astia, Eterna, Classic Neg & Acros"
+  ],
+  "images": [],
+  "settings": {
+    "profile": "Adobe Color",
+    "treatment": "color",
+    "light": {
+      "exposure": 0.1,
+      "contrast": -20,
+      "highlights": -65,
+      "shadows": 50,
+      "whites": -10,
+      "blacks": 20
+    },
+    "toneCurve": {
+      "rgb": [
+        [
+          0,
+          18
+        ],
+        [
+          255,
+          240
+        ]
+      ]
+    },
+    "color": {
+      "temp": 6,
+      "tint": 4,
+      "vibrance": 25,
+      "saturation": -5
+    },
+    "hsl": [
+      {
+        "channel": "Orange",
+        "hue": -4,
+        "saturation": 10,
+        "luminance": 10,
+        "note": ""
+      },
+      {
+        "channel": "Yellow",
+        "hue": -10,
+        "saturation": 15,
+        "luminance": 5,
+        "note": ""
+      },
+      {
+        "channel": "Blue",
+        "hue": -12,
+        "saturation": -15,
+        "luminance": 5,
+        "note": ""
+      }
+    ],
+    "colorGrading": {},
+    "effects": {
+      "texture": 0,
+      "clarity": -10,
+      "grain": {
+        "amount": 12
+      }
+    },
+    "detail": {},
+    "notes": ""
+  },
+  "createdAt": "2026-10-09T08:00:00.000Z",
+  "updatedAt": "2026-10-30T11:10:43.968Z"
+}

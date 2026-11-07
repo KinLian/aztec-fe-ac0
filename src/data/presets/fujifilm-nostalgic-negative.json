@@ -1,0 +1,139 @@
+{
+  "name": "Fujifilm Nostalgic Negative",
+  "reference": "Fujifilm Nostalgic Negative",
+  "description": "1970s \"New Color\" aesthetic: low contrast, open ruby-brown shadows, rich midtone colour depth and warm amber-honey highlights.",
+  "timeOfDay": [
+    "Golden hour (PM)",
+    "Sunset",
+    "Night"
+  ],
+  "locations": [
+    "Mount Uhud",
+    "Medina",
+    "Desert"
+  ],
+  "tags": [
+    "low contrast",
+    "film simulation",
+    "warm",
+    "Fujifilm Reala Ace & Nostalgic Neg"
+  ],
+  "images": [],
+  "settings": {
+    "profile": "Adobe Color",
+    "treatment": "color",
+    "light": {
+      "exposure": 0.15,
+      "contrast": -25,
+      "highlights": -60,
+      "shadows": 55,
+      "whites": -25,
+      "blacks": 25
+    },
+    "toneCurve": {
+      "rgb": [
+        [
+          0,
+          22
+        ],
+        [
+          255,
+          232
+        ]
+      ],
+      "blue": [
+        [
+          0,
+          0
+        ],
+        [
+          255,
+          235
+        ]
+      ],
+      "notes": "Blue channel top point down to 235 infuses highlights with warm Fuji amber."
+    },
+    "color": {
+      "temp": 10,
+      "tint": 8,
+      "vibrance": 22,
+      "saturation": -8
+    },
+    "hsl": [
+      {
+        "channel": "Red",
+        "hue": 10,
+        "saturation": 10,
+        "luminance": -10,
+        "note": "Warm brick/vermilion — ideal for Mount Uhud rocks"
+      },
+      {
+        "channel": "Orange",
+        "hue": -8,
+        "saturation": 12,
+        "luminance": -5,
+        "note": "Rich amber-copper tones"
+      },
+      {
+        "channel": "Yellow",
+        "hue": -18,
+        "saturation": 8,
+        "luminance": -5,
+        "note": "Shifts yellow strongly toward goldenrod/amber"
+      },
+      {
+        "channel": "Green",
+        "hue": 20,
+        "saturation": -20,
+        "luminance": -12,
+        "note": "Vintage emerald/teal greens"
+      },
+      {
+        "channel": "Aqua",
+        "hue": -10,
+        "saturation": -25,
+        "luminance": 0,
+        "note": "Muted retro cyan"
+      },
+      {
+        "channel": "Blue",
+        "hue": -12,
+        "saturation": -25,
+        "luminance": -15,
+        "note": "Warm-shifted 1970s sky blue"
+      }
+    ],
+    "colorGrading": {
+      "shadows": {
+        "hue": 18,
+        "sat": 14,
+        "lum": 10
+      },
+      "midtones": {
+        "hue": 35,
+        "sat": 16
+      },
+      "highlights": {
+        "hue": 44,
+        "sat": 22,
+        "lum": -10
+      },
+      "blending": 80,
+      "balance": 20
+    },
+    "effects": {
+      "texture": -5,
+      "clarity": -12,
+      "dehaze": -5,
+      "grain": {
+        "amount": 22,
+        "size": 30,
+        "roughness": 55
+      }
+    },
+    "detail": {},
+    "notes": "Whites -25 lets the amber tint show in the brightest marble and sky."
+  },
+  "createdAt": "2026-10-08T08:00:00.000Z",
+  "updatedAt": "2026-10-30T11:10:43.966Z"
+}

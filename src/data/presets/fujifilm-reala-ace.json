@@ -1,0 +1,135 @@
+{
+  "name": "Fujifilm Reala Ace",
+  "reference": "Fujifilm Reala Ace",
+  "description": "Flat, wide dynamic range with soft highlight roll-off, open shadows, true-to-life whites with a subtle magenta midtone bias, and calm cyan-blue skies.",
+  "timeOfDay": [
+    "Morning",
+    "Midday",
+    "Afternoon"
+  ],
+  "locations": [
+    "Mecca",
+    "Medina",
+    "Haramain",
+    "Architecture"
+  ],
+  "tags": [
+    "low contrast",
+    "film simulation",
+    "neutral",
+    "Fujifilm Reala Ace & Nostalgic Neg"
+  ],
+  "images": [],
+  "settings": {
+    "profile": "Adobe Color",
+    "treatment": "color",
+    "light": {
+      "exposure": "0.00 to +0.15",
+      "contrast": -20,
+      "highlights": -70,
+      "shadows": 45,
+      "whites": -15,
+      "blacks": 15
+    },
+    "toneCurve": {
+      "rgb": [
+        [
+          0,
+          14
+        ],
+        [
+          64,
+          68
+        ],
+        [
+          192,
+          184
+        ],
+        [
+          255,
+          242
+        ]
+      ]
+    },
+    "color": {
+      "temp": -2,
+      "tint": 6,
+      "vibrance": 8,
+      "saturation": -15
+    },
+    "hsl": [
+      {
+        "channel": "Red",
+        "hue": 4,
+        "saturation": -10,
+        "luminance": 5,
+        "note": "Clean, accurate reds"
+      },
+      {
+        "channel": "Orange",
+        "hue": -3,
+        "saturation": -8,
+        "luminance": 8,
+        "note": "Luminous, natural skin and stone"
+      },
+      {
+        "channel": "Yellow",
+        "hue": -6,
+        "saturation": -18,
+        "luminance": 10,
+        "note": "Soft champagne gold without harsh yellow glare"
+      },
+      {
+        "channel": "Green",
+        "hue": 12,
+        "saturation": -25,
+        "luminance": -5,
+        "note": "Muted, realistic olive/emerald"
+      },
+      {
+        "channel": "Aqua",
+        "hue": -5,
+        "saturation": -15,
+        "luminance": 5,
+        "note": "Soft sky transition"
+      },
+      {
+        "channel": "Blue",
+        "hue": -8,
+        "saturation": -20,
+        "luminance": -10,
+        "note": "Calm, slightly cyan Fuji blue sky"
+      }
+    ],
+    "colorGrading": {
+      "shadows": {
+        "hue": 225,
+        "sat": 6
+      },
+      "midtones": {
+        "hue": 320,
+        "sat": 4
+      },
+      "highlights": {
+        "hue": 48,
+        "sat": 8
+      },
+      "blending": 70,
+      "balance": 0
+    },
+    "effects": {
+      "texture": 5,
+      "clarity": -8,
+      "dehaze": 0,
+      "grain": {
+        "amount": 12,
+        "size": 20,
+        "roughness": 40
+      }
+    },
+    "detail": {},
+    "notes": "Temp -2 keeps white marble clean; Tint +6 is the signature Reala Ace magenta bias."
+  },
+  "createdAt": "2026-10-07T08:00:00.000Z",
+  "updatedAt": "2026-10-30T11:10:43.964Z"
+}
